@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Security.Cryptography.X509Certificates;
 
 public class MyClass
 {
-    public static void Main(string[] args)
+    /*public static void Main(string[] args)
     {     
         int [] numbers = { 10, 20, 30, 40, 50 };
         //int[] numbers1 = new int[5] ;   
@@ -39,6 +40,11 @@ public class MyClass
         Console.WriteLine(" ---- ");
 
 
+        
+        Console.WriteLine(" ---- ");
+        numberlist[1] = 0;
+            PrintListElements(numberlist);
+
         for (int i = 0; i < 20; i++)
         {
            numberlist2.Add(i * 111);
@@ -69,6 +75,38 @@ public class MyClass
             Console.WriteLine($"numbers[{Index1}]: {numberlist2[Index1]}");
             Index1++;
 
-        }
+        }*/
+
+    public static void Main(string[] args)
+    {
+        Stack<string> stack = new Stack<string>();
+
+        Console.WriteLine("stacks elements " + stack.Count );
+
+        
+        stack.Push("First");
+        stack.Push("Second");
+        stack.Push("Third");
+        Console.WriteLine("---------" );
+
+        foreach (var item in stack)
+        { Console.WriteLine(item); }
+        Console.WriteLine("---------");
+
+        string top = stack.Pop();
+  
+        Console.WriteLine(top);
+        Console.WriteLine("---------");
+        foreach (var item in stack)
+        { Console.WriteLine(item); }
+                Console.WriteLine("---------" );
+      
+
+        stack.Push(top);
+
+        foreach (var item in stack)
+        { Console.WriteLine(item); }
+        Console.WriteLine("---------");
+        Console.WriteLine("stacks elements " + stack.Count);
     }
 }
