@@ -1,0 +1,5 @@
+En este código básicamente lo que hice fue una clase llamada AbstractSample, pero esta vez no fue abstracta porque quería poder usarla normal y crear objetos directamente. Ahí puse un método PrintMessage que simplemente imprime un mensaje en consola.
+
+Después hice otra clase llamada MessageManager, donde instancié dos objetos (sample1 y sample2) de AbstractSample y llamé el método PrintMessage en cada uno para que mostraran el mensaje.
+
+Al final, en el Main, solo creé el manager para correr el ejercicio.
