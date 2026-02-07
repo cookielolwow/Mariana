@@ -1,0 +1,11 @@
+Primero hice una clase abstracta llamada AbstractSample, donde guardé el mensaje en una variable privada llamada message. 
+
+Después definí un método abstracto llamado PrintMessage, para que todas las clases que heredaran tuvieran que implementar su propia forma de imprimir el texto. También creé un método virtual llamado InvertMessage, que lo que hizo fue invertir el mensaje convirtiéndolo en un arreglo de caracteres y usando Array.Reverse.
+
+En esa parte fue donde tuve que agregar un protected. Yo hice la propiedad Message como protected porque necesitaba que las clases hijas como NormalClass y CaseClass pudieran acceder al mensaje y modificarlo(el ejercicio decía que fuera privado pero como necesitaba acceso a ellos para usarlo cree uno nuevo. )
+
+Luego creé NormalClass, que simplemente imprimió el mensaje normal sin cambiar nada.
+
+Después hice CaseClass, que fue lo más complicado porque ahí cambié las mayúsculas por minúsculas y viceversa. Para eso recorrí el texto letra por letra usando char.IsUpper y char.IsLower. La verdad yo estaba medio perdida con eso de detectar mayúsculas en C#, entonces me apoyé en IA para entender qué funciones usar.
+
+Finalmente, también sobrescribí InvertMessage en CaseClass para que primero invirtiera el texto con base.InvertMessage(msg) y después aplicara el cambio de mayúsculas al resultado final.
