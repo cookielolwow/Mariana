@@ -37,7 +37,7 @@ class Program
         Console.WriteLine("Ingresa la cantidad de segundos:");
         int segs = int.Parse(Console.ReadLine());
 
-        // Llamamos a la función y guardamos lo que nos devuelve
+   
         string reloj = FormatearSegundos(segs);
 
         Console.WriteLine("El formato es: " + reloj);

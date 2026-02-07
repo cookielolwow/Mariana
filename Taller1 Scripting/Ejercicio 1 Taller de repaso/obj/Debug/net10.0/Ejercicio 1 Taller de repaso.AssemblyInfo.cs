@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio 1 Taller de repaso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bddf5538c9b8f9f174c33b62dd7901caf4afea39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b504898ee957cbcff016a76603e2d78ed1929a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio 1 Taller de repaso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio 1 Taller de repaso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
