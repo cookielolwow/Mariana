@@ -1,0 +1,15 @@
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\obj\Debug\net10.0\Ejercicio 1 Taller de repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\obj\Debug\net10.0\Ejercicio 1 Taller de repaso.AssemblyInfoInputs.cache
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\obj\Debug\net10.0\Ejercicio 1 Taller de repaso.AssemblyInfo.cs
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\obj\Debug\net10.0\Ejercicio 1 Taller de repaso.csproj.CoreCompileInputs.cache
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\obj\Debug\net10.0\Ejercicio 1 Taller de repaso.sourcelink.json
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\bin\Debug\net10.0\Ejercicio 1 Taller de repaso.exe
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\bin\Debug\net10.0\Ejercicio 1 Taller de repaso.deps.json
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\bin\Debug\net10.0\Ejercicio 1 Taller de repaso.runtimeconfig.json
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\bin\Debug\net10.0\Ejercicio 1 Taller de repaso.dll
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\bin\Debug\net10.0\Ejercicio 1 Taller de repaso.pdb
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\obj\Debug\net10.0\Ejercicio 1 Taller de repaso.dll
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\obj\Debug\net10.0\refint\Ejercicio 1 Taller de repaso.dll
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\obj\Debug\net10.0\Ejercicio 1 Taller de repaso.pdb
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\obj\Debug\net10.0\Ejercicio 1 Taller de repaso.genruntimeconfig.cache
+C:\Users\camil\Documents\GitHub\Mairana\Taller1 Scripting\Ejercicio 1 Taller de repaso\obj\Debug\net10.0\ref\Ejercicio 1 Taller de repaso.dll
