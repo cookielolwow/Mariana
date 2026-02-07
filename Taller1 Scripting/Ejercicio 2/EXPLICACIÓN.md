@@ -1,0 +1,7 @@
+Primero definí dos strings: num, que fue el número que jugué, y resultado, que fue el número ganador. Después usé un if en el Main para llamar a la función Gano, que fue la que me dijo si había alguna coincidencia.
+
+Dentro de la función Gano, revisé varias formas de ganar. Primero comprobé si el número era exactamente igual al resultado, o sea las 4 cifras en el mismo orden. Luego verifiqué si tenía las mismas cifras pero en desorden usando EsDesorden. Después revisé premios menores, como si coincidían las últimas 3 cifras, luego las últimas 2, o finalmente solo la última cifra. Si alguna de esas condiciones se cumplía, devolvía true.
+
+Si el jugador ganaba, entonces llamé a CalcularPremio, donde calculé cuánto dinero se ganaba según el acierto. Ahí definí una apuesta base de 1000 pesos y multipliqué dependiendo del caso: el premio mayor si coincidían las 4 cifras exactas, un premio menor si estaban en desorden, y premios más pequeños si solo coincidían 3, 2 o 1 cifra al final.
+
+Finalmente, la función EsDesorden me ayudó a comparar si los dos números tenían los mismos dígitos en diferente orden. Para eso convertí los strings en arreglos de caracteres, los ordené con Array.Sort y comparé si quedaban iguales.
