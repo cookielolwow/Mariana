@@ -35,7 +35,7 @@ namespace Taller_2_Scripting
             base.MostrarInformacion();
             Console.WriteLine("Tipo: Por Horas");
             Console.WriteLine($"Salario: {CalcularSalario()}");
-            Console.WriteLine("------------------------");
+            Console.WriteLine("**************************");
         }
     }
 }

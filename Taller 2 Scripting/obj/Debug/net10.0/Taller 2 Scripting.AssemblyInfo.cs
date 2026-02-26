@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taller 2 Scripting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87e631b0f99ac945c77e6e2c5d8693b1e03dd1b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61c2994607276625d771e82cfafbf44f6d262b45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taller 2 Scripting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taller 2 Scripting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
