@@ -8,7 +8,7 @@ namespace Taller_2_Scripting
     {
         private decimal salarioFijo;
 
-        public EmpleadoTiempoCompleto(int id, string nombre, decimal salarioFijo)
+        internal EmpleadoTiempoCompleto(int id, string nombre, decimal salarioFijo)
             : base(id, nombre)
         {
             this.salarioFijo = salarioFijo;

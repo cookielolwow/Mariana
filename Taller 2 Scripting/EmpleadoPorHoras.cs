@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Taller_2_Scripting
 {
-    public class EmpleadoPorHoras : Empleado
+    internal class EmpleadoPorHoras : Empleado
     {
         private int horasTrabajadas;
         private decimal valorHora;
@@ -18,12 +18,6 @@ namespace Taller_2_Scripting
         }
 
 
-        public EmpleadoPorHoras(int id, string nombre)
-            : base(id, nombre)
-        {
-            horasTrabajadas = 0;
-            valorHora = 0;
-        }
 
         public override decimal CalcularSalario()
         {
