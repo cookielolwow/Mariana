@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Taller_2_Scripting
 {
-    internal class EmpleadoTiempoCompleto
+    internal class EmpleadoTiempoCompleto : Empleado
     {
     }
 }
