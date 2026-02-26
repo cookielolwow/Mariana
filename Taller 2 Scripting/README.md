@@ -1,3 +1,5 @@
+NOMBRES: MARIANA MEJIA Y ANDREA YEPES
+
 Para empezar con nuestras decisiones de diseño...  Empezamos creando la interfaz de IPagable para cualquier clase que represantara un empleado implemnetara el método CalcularSalario(). Esto permite que sea mas flexible a la hora de agregar
 nuevos empleados se pueda poner de forma mas sencilla la lógica.
 
