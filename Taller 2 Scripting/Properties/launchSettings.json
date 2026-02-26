@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Taller 2 Scripting": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
