@@ -14,4 +14,6 @@ En cuanto al main, creamos una lista de tipo List<Empleado>. Aunque la lista est
 
 <img width="736" height="648" alt="image" src="https://github.com/user-attachments/assets/53d9775f-f8a2-47a0-aec9-1625eac3d4a7" />
 
+hoy nos sentimos asi, buenos flashbacks de poo.
+
 
